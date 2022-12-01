@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LinuxHubwho
-- 👀 I’m interested in ... Leaning to hacking for educational purpose
-- 🌱 I’m currently learning ... how to lean hacking
+- 👀 I’m interested in ... Leaning
 - 💞️ I’m looking to collaborate on ... myself
 - 📫 How to reach me ...Uknown ... atm
 
